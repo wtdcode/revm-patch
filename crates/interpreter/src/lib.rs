@@ -4,7 +4,7 @@ pub mod gas;
 mod host;
 pub mod inner_models;
 pub mod instruction_result;
-mod instructions;
+pub mod instructions;
 mod interpreter;
 
 extern crate alloc;
