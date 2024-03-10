@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [7.1.1](https://github.com/wtdcode/revm/compare/revm-v7.1.0...revm-v7.1.1) - 2024-03-10
+
+### Other
+- Update post_execution.rs ([#1180](https://github.com/wtdcode/revm/pull/1180))
+
 ## [7.1.0](https://github.com/bluealloy/revm/compare/revm-v7.0.0...revm-v8.0.0) - 2024-03-08
 
 ### Added

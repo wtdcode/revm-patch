@@ -2321,7 +2321,7 @@ dependencies = [
 
 [[package]]
 name = "revm"
-version = "7.1.0"
+version = "7.1.1"
 dependencies = [
  "anyhow",
  "auto_impl",
@@ -2397,7 +2397,7 @@ dependencies = [
 
 [[package]]
 name = "revme"
-version = "0.3.0"
+version = "0.3.1"
 dependencies = [
  "alloy-rlp",
  "hash-db",
